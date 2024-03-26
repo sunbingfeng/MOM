@@ -1,49 +1,15 @@
-# 目录
 
-{% content-ref url="yin-yan-you-xiu-de-jing-li-bu-shi-tian-sheng-de-shi-lian-chu-lai-de.md" %}
-[yin-yan-you-xiu-de-jing-li-bu-shi-tian-sheng-de-shi-lian-chu-lai-de.md](yin-yan-you-xiu-de-jing-li-bu-shi-tian-sheng-de-shi-lian-chu-lai-de.md)
-{% endcontent-ref %}
+![](./assets/cover.jpg)
 
-{% content-ref url="di-yi-zhang-shi-mo-shi-guan-li.md" %}
-[di-yi-zhang-shi-mo-shi-guan-li.md](di-yi-zhang-shi-mo-shi-guan-li.md)
-{% endcontent-ref %}
+# 初衷
+断断续续的，终于看完了Julie Zhuo的这本书“The Making Of A Manager”。每次拾起这本书，看上一小段，都会不自觉的会心一笑，然后引发我对于平时工作的一些思考。
 
-{% content-ref url="di-er-zhang-chu-chu-mao-lu-de-qian-san-ge-yue.md" %}
-[di-er-zhang-chu-chu-mao-lu-de-qian-san-ge-yue.md](di-er-zhang-chu-chu-mao-lu-de-qian-san-ge-yue.md)
-{% endcontent-ref %}
+这本书以一个平易近人的口吻，讲述了一段有趣的经理人养成记。适合初次接触管理的新人，也适合迷茫中的老司机。其中讲述的一些经验和道理，让人读起来特别的舒服。因此，想推荐给更多的人。
 
-{% content-ref url="di-san-zhang-guan-li-xiao-tuan-dui.md" %}
-[di-san-zhang-guan-li-xiao-tuan-dui.md](di-san-zhang-guan-li-xiao-tuan-dui.md)
-{% endcontent-ref %}
+该书2019年在国外就发行了，上市后受到了读者的热情追捧，并多次荣登职场书籍畅销榜。英文版本读起来不是很费劲，有信心的读者欢迎直接阅读原版。鉴于国内没有中文翻译的版本，鄙人不才，想尝试一下。希望可以有更多的人关注到这本书，并从中受益。
 
-{% content-ref url="di-si-zhang-fan-kui-de-yi-shu.md" %}
-[di-si-zhang-fan-kui-de-yi-shu.md](di-si-zhang-fan-kui-de-yi-shu.md)
-{% endcontent-ref %}
+# 版权说明
+该翻译完全是个人兴趣所驱动，并不打算用于商业目的，侵权必删！
 
-{% content-ref url="di-wu-zhang-zi-wo-guan-li.md" %}
-[di-wu-zhang-zi-wo-guan-li.md](di-wu-zhang-zi-wo-guan-li.md)
-{% endcontent-ref %}
-
-{% content-ref url="di-liu-zhang-hui-yi-bu-zai-ku-zao.md" %}
-[di-liu-zhang-hui-yi-bu-zai-ku-zao.md](di-liu-zhang-hui-yi-bu-zai-ku-zao.md)
-{% endcontent-ref %}
-
-{% content-ref url="di-qi-zhang-zhao-pin-de-yi-shu.md" %}
-[di-qi-zhang-zhao-pin-de-yi-shu.md](di-qi-zhang-zhao-pin-de-yi-shu.md)
-{% endcontent-ref %}
-
-{% content-ref url="di-ba-zhang-shun-shi-er-wei.md" %}
-[di-ba-zhang-shun-shi-er-wei.md](di-ba-zhang-shun-shi-er-wei.md)
-{% endcontent-ref %}
-
-{% content-ref url="di-jiu-zhang-ling-dao-kuai-su-cheng-chang-xing-tuan-dui.md" %}
-[di-jiu-zhang-ling-dao-kuai-su-cheng-chang-xing-tuan-dui.md](di-jiu-zhang-ling-dao-kuai-su-cheng-chang-xing-tuan-dui.md)
-{% endcontent-ref %}
-
-{% content-ref url="di-shi-zhang-pei-yang-tuan-dui-wen-hua.md" %}
-[di-shi-zhang-pei-yang-tuan-dui-wen-hua.md](di-shi-zhang-pei-yang-tuan-dui-wen-hua.md)
-{% endcontent-ref %}
-
-{% content-ref url="hou-ji-wan-li-chang-zheng-di-yi-bu.md" %}
-[hou-ji-wan-li-chang-zheng-di-yi-bu.md](hou-ji-wan-li-chang-zheng-di-yi-bu.md)
-{% endcontent-ref %}
+# 如何参与
+如果你阅读过或者正在阅读这本书，而且正好有意愿贡献自己的力量，欢迎加入我们的翻译小团队。
