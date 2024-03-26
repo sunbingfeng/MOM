@@ -1,0 +1,15 @@
+# Table of contents
+
+* [目录](README.md)
+* [引言：优秀的经理不是天生的，是练出来的](yin-yan-you-xiu-de-jing-li-bu-shi-tian-sheng-de-shi-lian-chu-lai-de.md)
+* [第一章：什么是管理？](di-yi-zhang-shi-mo-shi-guan-li.md)
+* [第二章：初出茅芦的前三个月](di-er-zhang-chu-chu-mao-lu-de-qian-san-ge-yue.md)
+* [第三章：管理小团队](di-san-zhang-guan-li-xiao-tuan-dui.md)
+* [第四章：反馈的艺术](di-si-zhang-fan-kui-de-yi-shu.md)
+* [第五章：自我管理](di-wu-zhang-zi-wo-guan-li.md)
+* [第六章：会议不再枯燥](di-liu-zhang-hui-yi-bu-zai-ku-zao.md)
+* [第七章：招聘的艺术](di-qi-zhang-zhao-pin-de-yi-shu.md)
+* [第八章：顺事而为](di-ba-zhang-shun-shi-er-wei.md)
+* [第九章：领导快速成长型团队](di-jiu-zhang-ling-dao-kuai-su-cheng-chang-xing-tuan-dui.md)
+* [第十章：培养团队文化](di-shi-zhang-pei-yang-tuan-dui-wen-hua.md)
+* [后记：万里长征第一步](hou-ji-wan-li-chang-zheng-di-yi-bu.md)
