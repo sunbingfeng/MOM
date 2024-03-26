@@ -12,4 +12,4 @@
 * [第八章：顺事而为](chapter-8.md)
 * [第九章：领导快速成长型团队](chapter-9.md)
 * [第十章：培养团队文化](chapter-10.md)
-* [后记：万里长征第一步](epilogue.md)
+* [后记：万里长征第一步](hou-ji-wan-li-chang-zheng-di-yi-bu.md)
